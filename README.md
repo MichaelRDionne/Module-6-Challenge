@@ -28,7 +28,7 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-dotenv-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-pyviz-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/pyviz/)
   
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
@@ -49,16 +49,17 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-### 2. To install dotenv with pip
+### 2. Clone the pyviz repository
   ```
-$ pip install python-dotenv
+git clone https://github.com/pyviz/pyviz.git
 ```
-  - ### from dotenv import load_dotenv
+  - ### create conda environment 
 ```
-  load_dotenv()  # take environment variables from .env.
-
-  # Code of your application, which uses environment variables (e.g. from `os.environ` or
-  # `os.getenv`) as if they came from the actual environment.
+ > git clone https://github.com/pyviz/pyviz.git 
+  ```
+  - ### activate the environment
+  ```
+  > activate pyviz
   ```
 ### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
