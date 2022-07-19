@@ -16,7 +16,6 @@
   - ### 60/40 stock-bond weight simluations over 30 years
   - ### 80/20 stock-bond weight simulations over 10 years 
  
-
 ---
 
 ## Technology Used
@@ -71,7 +70,10 @@ $ import pandas
 ```
 $ pip install mathplotlib
 ```
-
+### 5. GeoViews installation with PIP
+  ```
+ conda install -c pyviz geoviews
+``` 
 ---
 
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
