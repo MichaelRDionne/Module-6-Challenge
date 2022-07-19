@@ -39,7 +39,7 @@
 ## Installation Guide
 
 ### 1. The easiest way to install JupyterLab is to download the Anaconda application.
-https://www.anaconda.com/products/distribution
+[![Anaconda-Server Badge](https://anaconda.org/conda-forge/markdown-include/badges/installer/conda.svg)](https://www.anaconda.com/products/distribution)
 
   - ### To install Juypter Lab with pip:
 ```
