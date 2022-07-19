@@ -34,6 +34,8 @@
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
 
+[![Python - GeoViews](https://img.shields.io/badge/Python-GeoViews-blue?style=for-the-badge)](http://geoviews.org/)
+
 ---
 
 ## Installation Guide
