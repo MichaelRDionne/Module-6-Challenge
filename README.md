@@ -1,21 +1,17 @@
 # Module-6-Challenge
 
-## Financial Analysis Tools for Emergencies & for Retirement: (MonteCarlo Simulations)
+## Finding Viable Investment Properties in SF Rental Market: (Data Visualization with GeoSpatial Analysis)
 ---
 
 ![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg)
 
-### Analyst for a FinTech consulting firm. 
-### Ability to evaluate financial health with 2 financial analysis tools:
-  - ### Emergencies
-  - ### Retirement
+### Analyst for a Proptech company to find viable Investment Properties in SF Rental Market
+### Application of numerous data visualization techniques:
+  - ### aggregation
+  - ### interactive graphs
+  - ### geospatial analysis 
   
-### Emergency planning will evaluate current savings and determine if emergency fund is possible.
-### Retirement planning will use Monte Carlo simulations. 
-  - ### ALPACA API call via ALPACA SDK for accurate historical pricing
-  - ### 60/40 stock-bond weight simluations over 30 years
-  - ### 80/20 stock-bond weight simulations over 10 years 
- 
+### Deliverables will be Jupyter notebook with formated interactive visualizations
 ---
 
 ## Technology Used
@@ -90,8 +86,8 @@ $ pip install mathplotlib
 ### Hist Plot
 [![Hist Plot](https://matplotlib.org/stable/_images/sphx_glr_hist_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/hist_plot.html)
 
-### Pie Plot
-[![Pie Plot](https://matplotlib.org/stable/_images/sphx_glr_pie_001.png)](https://matplotlib.org/stable/plot_types/stats/pie.html)
+### Bar Graph
+[![Bar Graph](https://matplotlib.org/stable/_images/sphx_glr_bar_001.png)](https://matplotlib.org/stable/plot_types/basic/bar.html)
   
 ---
 ## Contributors
