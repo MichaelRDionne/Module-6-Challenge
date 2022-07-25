@@ -3,7 +3,7 @@
 ## Finding Viable Investment Properties in SF Rental Market: (Data Visualization with GeoSpatial Analysis)
 ---
 
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg)
+![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Resources/lombard%20street%20overhead.jpeg)
 
 ### Analyst for a Proptech company to find viable Investment Properties in SF Rental Market
 ### Application of numerous data visualization techniques:
@@ -46,27 +46,15 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-### 2. Clone the pyviz repository
+### 2. The recommended way to install hvPlot is using the conda command
   ```
-git clone https://github.com/pyviz/pyviz.git
+conda install -c pyviz hvplot
 ```
-  - ### create conda environment 
-```
- > git clone https://github.com/pyviz/pyviz.git 
-  ```
-  - ### activate the environment
-  ```
-  > activate pyviz
-  ```
 ### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
 ```
-### 4. Mathplotlib will need to be installed using pip:
-```
-$ pip install mathplotlib
-```
-### 5. GeoViews installation with PIP
+### 4. GeoViews installation with PIP
   ```
  conda install -c pyviz geoviews
 ``` 
