@@ -64,19 +64,13 @@ $ import pandas
 
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-## [Mathplotlib](https://matplotlib.org/stable/index.html)
+## [hvPlot](https://hvplot.holoviz.org/#)
 
 ### Features used:
 
-### Basic Plot
-[![Basic Plot](https://matplotlib.org/stable/_images/sphx_glr_plot_001.png)](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
+### Plotting Points
+[![Basic Plot](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Images/6-4-geoviews-plot.png)](https://hvplot.holoviz.org/user_guide/Geographic_Data.html)
 
-### Hist Plot
-[![Hist Plot](https://matplotlib.org/stable/_images/sphx_glr_hist_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/hist_plot.html)
-
-### Bar Graph
-[![Bar Graph](https://matplotlib.org/stable/_images/sphx_glr_bar_001.png)](https://matplotlib.org/stable/plot_types/basic/bar.html)
-  
 ---
 ## Contributors
 
